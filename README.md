@@ -13,6 +13,12 @@ It demonstrates the main concepts of:
 ---
 
 ## 📌 Project Structure
+-Controllers/
+-DTO/
+-Models/
+-Migrations/
+-appsettings.json
+-Program.cs
 
 ---
 
