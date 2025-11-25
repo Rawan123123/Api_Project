@@ -13,12 +13,12 @@ It demonstrates the main concepts of:
 ---
 
 ## 📌 Project Structure
--Controllers/
--DTO/
--Models/
--Migrations/
--appsettings.json
--Program.cs
+- Controllers/
+- DTO/
+- Models/
+- Migrations/
+- appsettings.json
+- Program.cs
 
 ---
 
@@ -66,6 +66,18 @@ Basic CRUD operations.
 
 ## 🗄️ Database
 The project uses **Entity Framework Core** with **Code First Migration**.
+
+--
+📚 Notes
+
+This project is mainly for training and practice, not production use.
+It helped in learning:
+
+- Controllers & Routing
+- DTOs
+- EF Core basics
+- Swagger documentation
+- Authentication workflow
 
 To update the database:
 ```bash
