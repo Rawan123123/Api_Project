@@ -68,7 +68,8 @@ Basic CRUD operations.
 The project uses **Entity Framework Core** with **Code First Migration**.
 
 ---
-### 📚 Notes
+
+## 📚 Notes
 
 This project is mainly for training and practice, not production use.
 It helped in learning:
